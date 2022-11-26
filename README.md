@@ -1,32 +1,25 @@
+# React-Hook-Form
 
-# Create React App - Boiler Plate Code
+## Table of contents
 
-This is the boiler plate code for a create-react-app. 
+- [Overview](#overview)
+- [Built with](#built-with)
+- [Author](#author)
 
+## Overview
 
-## Run Locally
+Practicing with React Hook Form
 
-Clone the project
+React Hook Form - [https://react-hook-form.com/]
 
-```bash
-  git clone https://link-to-project
-```
+## Built with
 
-Go to the project directory
+- React
+- React Hook Form
 
-```bash
-  cd my-project
-```
+## Author
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
+- Website - [Stephen Moran]
+- Linkedin - [Stephen Moran](https://www.linkedin.com/in/stephen-moran-/)
+- Github - [StephensGit](https://github.com/StephensGit)
 
